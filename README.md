@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project in the Odin Project. In this project, I put into practice various concepts from the Foundations course. This included creating an index.html file and linking it to other pages (in this scenario, three other recipes). I also got practice using headings, inserting images, and creating both ordered and unordered lists. 
